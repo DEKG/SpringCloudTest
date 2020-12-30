@@ -1,0 +1,12 @@
+server:
+  #服务端口号
+  port: 8100
+spring:
+  application:
+    #服务名称
+    name: springCloudEurekaClient
+eureka:
+  client:
+    #注册到的eureka服务地址
+    service-url:
+      defaultZone: http://localhost:8000/eureka/

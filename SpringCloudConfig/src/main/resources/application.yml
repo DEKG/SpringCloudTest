@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: springCloudConfig
+  cloud:
+    config:
+      server:
+        
+server:
+  port: 8500
+eureka:
+  client:
+    service-url: http://localhost:8000

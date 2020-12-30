@@ -1,0 +1,6 @@
+spring:
+  rabbitmq:
+    host: localhost
+    port: 8600
+    username: root
+    password: 123

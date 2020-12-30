@@ -1,0 +1,3 @@
+com\wanghao\springcloudribbonclient\controller\RibbonController.class
+com\wanghao\springcloudribbonclient\service\RibbonService.class
+com\wanghao\springcloudribbonclient\SpringCloudRibbonClientApplication.class

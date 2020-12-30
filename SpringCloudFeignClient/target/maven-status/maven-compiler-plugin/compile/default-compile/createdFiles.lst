@@ -1,0 +1,3 @@
+com\wanghao\springcloudfeignclient\controller\FeignController.class
+com\wanghao\springcloudfeignclient\SpringCloudFeignClientApplication.class
+com\wanghao\springcloudfeignclient\romote\FeignRemoteService.class
